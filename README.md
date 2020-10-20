@@ -1,0 +1,1 @@
+Para unirse a otros canales en Slack, pueden usar el selector de canales, o el comando `/abrir` o `/open` dependiendo del idioma en que este configurado su navegador o su Slack.

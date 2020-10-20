@@ -22,6 +22,6 @@ Puedes unirte a un canal usando el selector de canales, es un simbolo de `+` en 
 
 ![](./channels1.gif)
 
-Tambien puedes abrir el selector de canales escribiendo el comando `/abrir` y presionando Enter en tu teclado como si fueras a mandar un mensaje; si conoces el nombre del canal, puedes usarlo directamente con el comando `/open` seguido por el nombre del canal con un `#` al principio, por ejemplo `#ayuda` o `#random`.
+Tambien puedes abrir el selector de canales escribiendo el comando `/open` y presionando Enter en tu teclado como si fueras a mandar un mensaje; si conoces el nombre del canal, puedes usarlo directamente con el comando `/open` seguido por el nombre del canal con un `#` al principio, por ejemplo `#ayuda` o `#random`.
 
 ![](./channels2.gif)
